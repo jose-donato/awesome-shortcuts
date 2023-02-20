@@ -1,2 +1,11 @@
-# awesome-shorcuts
-Discover the shortcuts used by the most used applications for common actions
+# awesome-shortcuts
+
+| Action                  | Notion | VS Code | Figma | Arc   | Chrome |
+|:------------------------|:------:|:-------:|:-----:|:-----:|:------:|
+| Open new tab            |        |         |       |       |  `⌘+t` |
+| Close current tab       |        |         |       |       |        |
+| Navigate to certain tab |        |         |       |       |        |
+| Bookmark                |        |         |       |       |        |
+
+
+### Links
